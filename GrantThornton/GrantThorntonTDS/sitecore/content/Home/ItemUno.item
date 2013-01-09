@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {0EF33DC7-6EAF-40FF-8CB3-5055EF5C5E6A}
+database: master
+path: /sitecore/content/Home/ItemUno
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: ItemUno
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 588
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" s:l="{29AF0BFF-6B8C-4D16-AD89-8C157001EE1D}"><r uid="{43222D12-08C9-453B-AE96-D406EBB95126}"><p:d /></r><r uid="{CF044AD9-0332-407A-ABDE-587214A2C808}"><p:d /></r><r uid="{D5A24982-6DEC-4371-AFF0-46DBBC8C1AE5}" p:before="r[@uid='{B1E75C3C-25E5-4993-8FC3-FD5E7E92F805}']" s:id="{B3407408-747A-4529-8FC0-C968B5D06AEA}" s:ph="main" /><r uid="{B1E75C3C-25E5-4993-8FC3-FD5E7E92F805}" s:id="{FC4DBF4E-E21D-4244-8668-CC3AD843F15F}" s:ph="main" /><r uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"><p:d /></r></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: ff11021f-adf0-49c3-802b-4967535edb45
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 7
+
+ItemUno
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 20
+
+This is my first try
+----field----
+field: {2D3F9184-F122-4F8B-BDF3-77EE30B59090}
+name: ImageURL
+key: imageurl
+content-length: 76
+
+http://hdwpapers.com/walls/motocycles_ducati_ducati_998_wallpaper-normal.jpg
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130107T184800
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ff11021f-adf0-49c3-802b-4967535edb45
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130107T185439:634931816796173967
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}

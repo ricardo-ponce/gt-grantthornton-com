@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrantThornton", "GrantThornton.csproj", "{FCD83C26-4D1D-4AAE-8AF3-B0CB19377E65}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "GrantThorntonTDS", "..\GrantThorntonTDS\GrantThorntonTDS.scproj", "{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD83C26-4D1D-4AAE-8AF3-B0CB19377E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD83C26-4D1D-4AAE-8AF3-B0CB19377E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD83C26-4D1D-4AAE-8AF3-B0CB19377E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD83C26-4D1D-4AAE-8AF3-B0CB19377E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0338CE30-EA7E-4BC6-949E-21ABAC9E8241}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
